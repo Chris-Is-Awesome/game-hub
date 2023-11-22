@@ -1,3 +1,9 @@
+<div style="text-align: center">
+	<h1>test</h1>
+</div>
+
+<img src="./src/assets/logo.webp" alt="logo" width="50" style="float: left; margin-top: -7px">
+
 # Game Hub
 
 ### This was a project I completed following Code with Mosh's "[React 18 for Beginners](https://members.codewithmosh.com/courses/enrolled/2037633)" course. Live Demo - [Try Me!](https://chris-is-awesome.github.io/game-hub/)
