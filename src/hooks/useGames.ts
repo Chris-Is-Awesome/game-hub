@@ -24,7 +24,8 @@ const useGames = (gameQuery
 			platforms: gameQuery.platform?.id,
 			ordering: gameQuery.sortOrder,
 			search: gameQuery.searchText
-		}},
+		},
+		withCredentials: false},
 		[gameQuery]);
 
 export default useGames;
