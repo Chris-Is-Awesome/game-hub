@@ -1,14 +1,20 @@
-<div style="text-align: center">
-	<h1>test</h1>
+<div align="center">
+	<h1>
+		<img src="./src/assets/logo.webp" alt="logo" width="50">
+		<br>
+		Game Hub
+		<br>
+		<br>
+		<img src="./gh-resources/preview.gif" alt="site preview">
+	</h1>
+	<br>
+	<h2>
+		This was a project I completed following Code with Mosh's <a href="https://members.codewithmosh.com/courses/enrolled/2037633">"React 18 for Beginners"</a> course.
+		<br>
+		<br>
+		<a href="https://chris-is-awesome.github.io/game-hub/">Try Me!</a> (live demo)
+	</h2>
 </div>
-
-<img src="./src/assets/logo.webp" alt="logo" width="50" style="float: left; margin-top: -7px">
-
-# Game Hub
-
-### This was a project I completed following Code with Mosh's "[React 18 for Beginners](https://members.codewithmosh.com/courses/enrolled/2037633)" course. Live Demo - [Try Me!](https://chris-is-awesome.github.io/game-hub/)
-
-![Site preview](./gh-resources/preview.gif)
 
 ---
 
